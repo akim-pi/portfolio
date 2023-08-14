@@ -1,5 +1,5 @@
 # Portfolio
----
+---  
 ## Projects
 **Temporal Data Imputation Model for Peatland Groundwater Level** _(2023)_  
 [Github](https://github.com/akim-pi/peatland-reconstruction)
@@ -79,7 +79,9 @@
 [Github](https://github.com/akim-pi/CursedFish)
 - An endless game about a fish cleaning the sea.
 - Use basic 2D Unity Engine and C# to develop the game.
----
+  
+---  
+  
 ## Education
 **IPB University** _(August 2019 – July 2023)_  
 _Bachelor Degree in Computer Science_  
@@ -94,7 +96,9 @@ _High School Diploma_
 **International Islamic School Malaysia (Kuantan)** _(October 2014 - September 2017)_  
 _O-level_
 - **IGCSE**: 4A*, 2A, 1B
----
+  
+---  
+  
 ## Experience
 **Research Assisant** _(August 2023 - Present)_
 - Just joined a research team to administer data through online platform.
@@ -111,7 +115,9 @@ _Machine Learning Path_
 _Education Division Treasurer_  
 - The treasurer of Himalkom’s Education Division handles the division’s budgeting, income and spendings within the organization events.
 - Track and record all computer sciences’ students' achievements throughout the year as well as update any upcoming competitions to inform them to potential participants.
----
+  
+---  
+  
 ## Certification
 - [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/certificate/9ENMNLTG29MA)
 - [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/9954HGY8H4KT)
